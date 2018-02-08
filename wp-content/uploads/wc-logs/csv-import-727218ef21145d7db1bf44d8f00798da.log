@@ -1,0 +1,1986 @@
+2017-10-23T10:00:16+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:16+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:16+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:16+00:00 DEBUG ---
+2017-10-23T10:00:16+00:00 DEBUG Processing products.
+2017-10-23T10:00:16+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:16+00:00 DEBUG > Inserting 
+2017-10-23T10:00:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:16+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:16+00:00 DEBUG > Inserting 
+2017-10-23T10:00:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:16+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:16+00:00 DEBUG > Inserting 
+2017-10-23T10:00:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:16+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:16+00:00 DEBUG > Inserting 
+2017-10-23T10:00:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:16+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:16+00:00 DEBUG > Inserting 
+2017-10-23T10:00:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:16+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:16+00:00 DEBUG > Inserting 
+2017-10-23T10:00:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:16+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:16+00:00 DEBUG > Inserting 
+2017-10-23T10:00:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:16+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:16+00:00 DEBUG > Inserting 
+2017-10-23T10:00:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:16+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:16+00:00 DEBUG > Inserting 
+2017-10-23T10:00:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:16+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:18+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:18+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:18+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:18+00:00 DEBUG ---
+2017-10-23T10:00:18+00:00 DEBUG Processing products.
+2017-10-23T10:00:18+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:18+00:00 DEBUG > Inserting 
+2017-10-23T10:00:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:18+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:18+00:00 DEBUG > Inserting 
+2017-10-23T10:00:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:18+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:18+00:00 DEBUG > Inserting 
+2017-10-23T10:00:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:18+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:18+00:00 DEBUG > Inserting 
+2017-10-23T10:00:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:18+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:18+00:00 DEBUG > Inserting 
+2017-10-23T10:00:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:18+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:18+00:00 DEBUG > Inserting 
+2017-10-23T10:00:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:18+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:18+00:00 DEBUG > Inserting 
+2017-10-23T10:00:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:18+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:18+00:00 DEBUG > Inserting 
+2017-10-23T10:00:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:18+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:18+00:00 DEBUG > Inserting 
+2017-10-23T10:00:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:18+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:18+00:00 DEBUG > Inserting 
+2017-10-23T10:00:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:18+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:19+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:19+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:19+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:19+00:00 DEBUG ---
+2017-10-23T10:00:19+00:00 DEBUG Processing products.
+2017-10-23T10:00:19+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:19+00:00 DEBUG > Inserting 
+2017-10-23T10:00:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:19+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:19+00:00 DEBUG > Inserting 
+2017-10-23T10:00:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:19+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:19+00:00 DEBUG > Inserting 
+2017-10-23T10:00:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:19+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:19+00:00 DEBUG > Inserting 
+2017-10-23T10:00:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:19+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:19+00:00 DEBUG > Inserting 
+2017-10-23T10:00:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:19+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:19+00:00 DEBUG > Inserting 
+2017-10-23T10:00:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:19+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:19+00:00 DEBUG > Inserting 
+2017-10-23T10:00:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:19+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:19+00:00 DEBUG > Inserting 
+2017-10-23T10:00:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:19+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:19+00:00 DEBUG > Inserting 
+2017-10-23T10:00:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:19+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:19+00:00 DEBUG > Inserting 
+2017-10-23T10:00:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:19+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:20+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:20+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:20+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:20+00:00 DEBUG ---
+2017-10-23T10:00:20+00:00 DEBUG Processing products.
+2017-10-23T10:00:20+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:20+00:00 DEBUG > Inserting 
+2017-10-23T10:00:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:20+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:20+00:00 DEBUG > Inserting 
+2017-10-23T10:00:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:20+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:20+00:00 DEBUG > Inserting 
+2017-10-23T10:00:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:20+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:20+00:00 DEBUG > Inserting 
+2017-10-23T10:00:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:20+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:20+00:00 DEBUG > Inserting 
+2017-10-23T10:00:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:20+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:20+00:00 DEBUG > Inserting 
+2017-10-23T10:00:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:20+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:20+00:00 DEBUG > Inserting 
+2017-10-23T10:00:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:20+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:20+00:00 DEBUG > Inserting 
+2017-10-23T10:00:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:20+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:20+00:00 DEBUG > Inserting 
+2017-10-23T10:00:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:20+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:20+00:00 DEBUG > Inserting 
+2017-10-23T10:00:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:20+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:23+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:23+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:23+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:23+00:00 DEBUG ---
+2017-10-23T10:00:23+00:00 DEBUG Processing products.
+2017-10-23T10:00:23+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:23+00:00 DEBUG > Inserting 
+2017-10-23T10:00:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:23+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:23+00:00 DEBUG > Inserting 
+2017-10-23T10:00:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:23+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:23+00:00 DEBUG > Inserting 
+2017-10-23T10:00:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:23+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:23+00:00 DEBUG > Inserting 
+2017-10-23T10:00:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:23+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:23+00:00 DEBUG > Inserting 
+2017-10-23T10:00:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:23+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:23+00:00 DEBUG > Inserting 
+2017-10-23T10:00:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:23+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:23+00:00 DEBUG > Inserting 
+2017-10-23T10:00:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:23+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:23+00:00 DEBUG > Inserting 
+2017-10-23T10:00:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:23+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:23+00:00 DEBUG > Inserting 
+2017-10-23T10:00:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:23+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:23+00:00 DEBUG > Inserting 
+2017-10-23T10:00:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:23+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:24+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:24+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:24+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:24+00:00 DEBUG ---
+2017-10-23T10:00:24+00:00 DEBUG Processing products.
+2017-10-23T10:00:24+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:24+00:00 DEBUG > Inserting 
+2017-10-23T10:00:24+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:24+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:24+00:00 DEBUG > Inserting 
+2017-10-23T10:00:24+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:24+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:24+00:00 DEBUG > Inserting 
+2017-10-23T10:00:24+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:24+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:24+00:00 DEBUG > Inserting 
+2017-10-23T10:00:24+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:24+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:24+00:00 DEBUG > Inserting 
+2017-10-23T10:00:24+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:24+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:24+00:00 DEBUG > Inserting 
+2017-10-23T10:00:24+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:24+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:24+00:00 DEBUG > Inserting 
+2017-10-23T10:00:24+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:24+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:24+00:00 DEBUG > Inserting 
+2017-10-23T10:00:24+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:24+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:24+00:00 DEBUG > Inserting 
+2017-10-23T10:00:24+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:24+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:24+00:00 DEBUG > Inserting 
+2017-10-23T10:00:24+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:24+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:27+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:27+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:27+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:27+00:00 DEBUG ---
+2017-10-23T10:00:27+00:00 DEBUG Processing products.
+2017-10-23T10:00:27+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:27+00:00 DEBUG > Inserting 
+2017-10-23T10:00:27+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:27+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:27+00:00 DEBUG > Inserting 
+2017-10-23T10:00:27+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:27+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:27+00:00 DEBUG > Inserting 
+2017-10-23T10:00:27+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:27+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:27+00:00 DEBUG > Inserting 
+2017-10-23T10:00:27+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:27+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:27+00:00 DEBUG > Inserting 
+2017-10-23T10:00:27+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:27+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:27+00:00 DEBUG > Inserting 
+2017-10-23T10:00:27+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:27+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:27+00:00 DEBUG > Inserting 
+2017-10-23T10:00:27+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:27+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:27+00:00 DEBUG > Inserting 
+2017-10-23T10:00:27+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:27+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:27+00:00 DEBUG > Inserting 
+2017-10-23T10:00:27+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:27+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:27+00:00 DEBUG > Inserting 
+2017-10-23T10:00:27+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:27+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:33+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:33+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:33+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:33+00:00 DEBUG ---
+2017-10-23T10:00:33+00:00 DEBUG Processing products.
+2017-10-23T10:00:33+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:33+00:00 DEBUG > Inserting 
+2017-10-23T10:00:33+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:33+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:33+00:00 DEBUG > Inserting 
+2017-10-23T10:00:33+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:33+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:33+00:00 DEBUG > Inserting 
+2017-10-23T10:00:33+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:33+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:33+00:00 DEBUG > Inserting 
+2017-10-23T10:00:33+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:33+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:33+00:00 DEBUG > Inserting 
+2017-10-23T10:00:33+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:33+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:33+00:00 DEBUG > Inserting 
+2017-10-23T10:00:33+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:33+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:33+00:00 DEBUG > Inserting 
+2017-10-23T10:00:33+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:33+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:33+00:00 DEBUG > Inserting 
+2017-10-23T10:00:33+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:33+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:33+00:00 DEBUG > Inserting 
+2017-10-23T10:00:33+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:33+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:33+00:00 DEBUG > Inserting 
+2017-10-23T10:00:33+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:33+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:39+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:39+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:39+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:39+00:00 DEBUG ---
+2017-10-23T10:00:39+00:00 DEBUG Processing products.
+2017-10-23T10:00:39+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:39+00:00 DEBUG > Inserting 
+2017-10-23T10:00:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:39+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:39+00:00 DEBUG > Inserting 
+2017-10-23T10:00:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:39+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:39+00:00 DEBUG > Inserting 
+2017-10-23T10:00:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:39+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:39+00:00 DEBUG > Inserting 
+2017-10-23T10:00:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:39+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:39+00:00 DEBUG > Inserting 
+2017-10-23T10:00:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:39+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:39+00:00 DEBUG > Inserting 
+2017-10-23T10:00:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:39+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:39+00:00 DEBUG > Inserting 
+2017-10-23T10:00:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:39+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:39+00:00 DEBUG > Inserting 
+2017-10-23T10:00:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:39+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:39+00:00 DEBUG > Inserting 
+2017-10-23T10:00:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:39+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:39+00:00 DEBUG > Inserting 
+2017-10-23T10:00:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:39+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:44+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:44+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:44+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:44+00:00 DEBUG ---
+2017-10-23T10:00:44+00:00 DEBUG Processing products.
+2017-10-23T10:00:44+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:44+00:00 DEBUG > Inserting 
+2017-10-23T10:00:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:44+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:44+00:00 DEBUG > Inserting 
+2017-10-23T10:00:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:44+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:44+00:00 DEBUG > Inserting 
+2017-10-23T10:00:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:44+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:44+00:00 DEBUG > Inserting 
+2017-10-23T10:00:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:44+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:44+00:00 DEBUG > Inserting 
+2017-10-23T10:00:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:44+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:44+00:00 DEBUG > Inserting 
+2017-10-23T10:00:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:44+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:44+00:00 DEBUG > Inserting 
+2017-10-23T10:00:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:44+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:44+00:00 DEBUG > Inserting 
+2017-10-23T10:00:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:44+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:44+00:00 DEBUG > Inserting 
+2017-10-23T10:00:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:44+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:44+00:00 DEBUG > Inserting 
+2017-10-23T10:00:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:44+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:48+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:48+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:48+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:48+00:00 DEBUG ---
+2017-10-23T10:00:48+00:00 DEBUG Processing products.
+2017-10-23T10:00:48+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:48+00:00 DEBUG > Inserting 
+2017-10-23T10:00:48+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:48+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:48+00:00 DEBUG > Inserting 
+2017-10-23T10:00:48+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:48+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:48+00:00 DEBUG > Inserting 
+2017-10-23T10:00:48+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:48+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:48+00:00 DEBUG > Inserting 
+2017-10-23T10:00:48+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:48+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:48+00:00 DEBUG > Inserting 
+2017-10-23T10:00:48+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:48+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:48+00:00 DEBUG > Inserting 
+2017-10-23T10:00:48+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:48+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:48+00:00 DEBUG > Inserting 
+2017-10-23T10:00:48+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:48+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:48+00:00 DEBUG > Inserting 
+2017-10-23T10:00:48+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:48+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:48+00:00 DEBUG > Inserting 
+2017-10-23T10:00:48+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:48+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:48+00:00 DEBUG > Inserting 
+2017-10-23T10:00:48+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:48+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:51+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:51+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:51+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:51+00:00 DEBUG ---
+2017-10-23T10:00:51+00:00 DEBUG Processing products.
+2017-10-23T10:00:51+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:51+00:00 DEBUG > Inserting 
+2017-10-23T10:00:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:51+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:51+00:00 DEBUG > Inserting 
+2017-10-23T10:00:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:51+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:51+00:00 DEBUG > Inserting 
+2017-10-23T10:00:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:51+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:51+00:00 DEBUG > Inserting 
+2017-10-23T10:00:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:51+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:51+00:00 DEBUG > Inserting 
+2017-10-23T10:00:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:51+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:51+00:00 DEBUG > Inserting 
+2017-10-23T10:00:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:51+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:51+00:00 DEBUG > Inserting 
+2017-10-23T10:00:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:51+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:51+00:00 DEBUG > Inserting 
+2017-10-23T10:00:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:51+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:51+00:00 DEBUG > Inserting 
+2017-10-23T10:00:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:51+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:51+00:00 DEBUG > Inserting 
+2017-10-23T10:00:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:51+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:55+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:55+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:55+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:55+00:00 DEBUG ---
+2017-10-23T10:00:55+00:00 DEBUG Processing products.
+2017-10-23T10:00:55+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:55+00:00 DEBUG > Inserting 
+2017-10-23T10:00:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:55+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:55+00:00 DEBUG > Inserting 
+2017-10-23T10:00:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:55+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:55+00:00 DEBUG > Inserting 
+2017-10-23T10:00:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:55+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:55+00:00 DEBUG > Inserting 
+2017-10-23T10:00:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:55+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:55+00:00 DEBUG > Inserting 
+2017-10-23T10:00:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:55+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:55+00:00 DEBUG > Inserting 
+2017-10-23T10:00:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:55+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:55+00:00 DEBUG > Inserting 
+2017-10-23T10:00:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:55+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:55+00:00 DEBUG > Inserting 
+2017-10-23T10:00:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:55+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:55+00:00 DEBUG > Inserting 
+2017-10-23T10:00:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:55+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:55+00:00 DEBUG > Inserting 
+2017-10-23T10:00:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:55+00:00 DEBUG Finished processing products.
+2017-10-23T10:00:59+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:00:59+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:00:59+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:00:59+00:00 DEBUG ---
+2017-10-23T10:00:59+00:00 DEBUG Processing products.
+2017-10-23T10:00:59+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:00:59+00:00 DEBUG > Inserting 
+2017-10-23T10:00:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:59+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:00:59+00:00 DEBUG > Inserting 
+2017-10-23T10:00:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:59+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:00:59+00:00 DEBUG > Inserting 
+2017-10-23T10:00:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:59+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:00:59+00:00 DEBUG > Inserting 
+2017-10-23T10:00:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:59+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:00:59+00:00 DEBUG > Inserting 
+2017-10-23T10:00:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:59+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:00:59+00:00 DEBUG > Inserting 
+2017-10-23T10:00:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:59+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:00:59+00:00 DEBUG > Inserting 
+2017-10-23T10:00:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:59+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:00:59+00:00 DEBUG > Inserting 
+2017-10-23T10:00:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:59+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:00:59+00:00 DEBUG > Inserting 
+2017-10-23T10:00:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:59+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:00:59+00:00 DEBUG > Inserting 
+2017-10-23T10:00:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:00:59+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:01+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:01+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:01+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:01+00:00 DEBUG ---
+2017-10-23T10:01:01+00:00 DEBUG Processing products.
+2017-10-23T10:01:01+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:01+00:00 DEBUG > Inserting 
+2017-10-23T10:01:01+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:01+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:01+00:00 DEBUG > Inserting 
+2017-10-23T10:01:01+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:01+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:01+00:00 DEBUG > Inserting 
+2017-10-23T10:01:01+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:01+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:01+00:00 DEBUG > Inserting 
+2017-10-23T10:01:01+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:01+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:01+00:00 DEBUG > Inserting 
+2017-10-23T10:01:01+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:01+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:01+00:00 DEBUG > Inserting 
+2017-10-23T10:01:01+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:01+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:01+00:00 DEBUG > Inserting 
+2017-10-23T10:01:01+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:01+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:01+00:00 DEBUG > Inserting 
+2017-10-23T10:01:01+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:01+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:01+00:00 DEBUG > Inserting 
+2017-10-23T10:01:01+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:01+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:01+00:00 DEBUG > Inserting 
+2017-10-23T10:01:01+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:01+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:02+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:02+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:02+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:02+00:00 DEBUG ---
+2017-10-23T10:01:02+00:00 DEBUG Processing products.
+2017-10-23T10:01:02+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:02+00:00 DEBUG > Inserting 
+2017-10-23T10:01:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:02+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:02+00:00 DEBUG > Inserting 
+2017-10-23T10:01:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:02+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:02+00:00 DEBUG > Inserting 
+2017-10-23T10:01:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:02+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:02+00:00 DEBUG > Inserting 
+2017-10-23T10:01:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:02+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:02+00:00 DEBUG > Inserting 
+2017-10-23T10:01:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:02+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:02+00:00 DEBUG > Inserting 
+2017-10-23T10:01:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:02+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:02+00:00 DEBUG > Inserting 
+2017-10-23T10:01:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:02+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:02+00:00 DEBUG > Inserting 
+2017-10-23T10:01:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:02+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:02+00:00 DEBUG > Inserting 
+2017-10-23T10:01:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:02+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:02+00:00 DEBUG > Inserting 
+2017-10-23T10:01:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:02+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:04+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:04+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:04+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:04+00:00 DEBUG ---
+2017-10-23T10:01:04+00:00 DEBUG Processing products.
+2017-10-23T10:01:04+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:04+00:00 DEBUG > Inserting 
+2017-10-23T10:01:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:04+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:04+00:00 DEBUG > Inserting 
+2017-10-23T10:01:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:04+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:04+00:00 DEBUG > Inserting 
+2017-10-23T10:01:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:04+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:04+00:00 DEBUG > Inserting 
+2017-10-23T10:01:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:04+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:04+00:00 DEBUG > Inserting 
+2017-10-23T10:01:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:04+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:04+00:00 DEBUG > Inserting 
+2017-10-23T10:01:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:04+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:04+00:00 DEBUG > Inserting 
+2017-10-23T10:01:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:04+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:04+00:00 DEBUG > Inserting 
+2017-10-23T10:01:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:04+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:04+00:00 DEBUG > Inserting 
+2017-10-23T10:01:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:04+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:04+00:00 DEBUG > Inserting 
+2017-10-23T10:01:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:04+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:09+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:09+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:09+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:09+00:00 DEBUG ---
+2017-10-23T10:01:09+00:00 DEBUG Processing products.
+2017-10-23T10:01:09+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:09+00:00 DEBUG > Inserting 
+2017-10-23T10:01:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:09+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:09+00:00 DEBUG > Inserting 
+2017-10-23T10:01:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:09+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:09+00:00 DEBUG > Inserting 
+2017-10-23T10:01:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:09+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:09+00:00 DEBUG > Inserting 
+2017-10-23T10:01:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:09+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:09+00:00 DEBUG > Inserting 
+2017-10-23T10:01:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:09+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:09+00:00 DEBUG > Inserting 
+2017-10-23T10:01:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:09+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:09+00:00 DEBUG > Inserting 
+2017-10-23T10:01:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:09+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:09+00:00 DEBUG > Inserting 
+2017-10-23T10:01:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:09+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:09+00:00 DEBUG > Inserting 
+2017-10-23T10:01:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:09+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:09+00:00 DEBUG > Inserting 
+2017-10-23T10:01:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:09+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:12+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:12+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:12+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:12+00:00 DEBUG ---
+2017-10-23T10:01:12+00:00 DEBUG Processing products.
+2017-10-23T10:01:12+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:12+00:00 DEBUG > Inserting 
+2017-10-23T10:01:12+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:12+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:12+00:00 DEBUG > Inserting 
+2017-10-23T10:01:12+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:12+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:12+00:00 DEBUG > Inserting 
+2017-10-23T10:01:12+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:12+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:12+00:00 DEBUG > Inserting 
+2017-10-23T10:01:12+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:12+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:12+00:00 DEBUG > Inserting 
+2017-10-23T10:01:12+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:12+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:12+00:00 DEBUG > Inserting 
+2017-10-23T10:01:12+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:12+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:12+00:00 DEBUG > Inserting 
+2017-10-23T10:01:12+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:12+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:12+00:00 DEBUG > Inserting 
+2017-10-23T10:01:12+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:12+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:12+00:00 DEBUG > Inserting 
+2017-10-23T10:01:12+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:12+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:12+00:00 DEBUG > Inserting 
+2017-10-23T10:01:12+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:12+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:14+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:14+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:14+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:14+00:00 DEBUG ---
+2017-10-23T10:01:14+00:00 DEBUG Processing products.
+2017-10-23T10:01:14+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:14+00:00 DEBUG > Inserting 
+2017-10-23T10:01:14+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:14+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:14+00:00 DEBUG > Inserting 
+2017-10-23T10:01:14+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:14+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:14+00:00 DEBUG > Inserting 
+2017-10-23T10:01:14+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:14+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:14+00:00 DEBUG > Inserting 
+2017-10-23T10:01:14+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:14+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:14+00:00 DEBUG > Inserting 
+2017-10-23T10:01:14+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:14+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:14+00:00 DEBUG > Inserting 
+2017-10-23T10:01:14+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:14+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:14+00:00 DEBUG > Inserting 
+2017-10-23T10:01:14+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:14+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:14+00:00 DEBUG > Inserting 
+2017-10-23T10:01:14+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:14+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:14+00:00 DEBUG > Inserting 
+2017-10-23T10:01:14+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:14+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:14+00:00 DEBUG > Inserting 
+2017-10-23T10:01:14+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:14+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:16+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:16+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:16+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:16+00:00 DEBUG ---
+2017-10-23T10:01:16+00:00 DEBUG Processing products.
+2017-10-23T10:01:16+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:16+00:00 DEBUG > Inserting 
+2017-10-23T10:01:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:16+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:16+00:00 DEBUG > Inserting 
+2017-10-23T10:01:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:16+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:16+00:00 DEBUG > Inserting 
+2017-10-23T10:01:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:16+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:16+00:00 DEBUG > Inserting 
+2017-10-23T10:01:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:16+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:16+00:00 DEBUG > Inserting 
+2017-10-23T10:01:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:16+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:16+00:00 DEBUG > Inserting 
+2017-10-23T10:01:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:16+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:16+00:00 DEBUG > Inserting 
+2017-10-23T10:01:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:16+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:16+00:00 DEBUG > Inserting 
+2017-10-23T10:01:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:16+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:16+00:00 DEBUG > Inserting 
+2017-10-23T10:01:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:16+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:16+00:00 DEBUG > Inserting 
+2017-10-23T10:01:16+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:16+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:18+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:18+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:18+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:18+00:00 DEBUG ---
+2017-10-23T10:01:18+00:00 DEBUG Processing products.
+2017-10-23T10:01:18+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:18+00:00 DEBUG > Inserting 
+2017-10-23T10:01:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:18+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:18+00:00 DEBUG > Inserting 
+2017-10-23T10:01:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:18+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:18+00:00 DEBUG > Inserting 
+2017-10-23T10:01:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:18+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:18+00:00 DEBUG > Inserting 
+2017-10-23T10:01:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:18+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:18+00:00 DEBUG > Inserting 
+2017-10-23T10:01:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:18+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:18+00:00 DEBUG > Inserting 
+2017-10-23T10:01:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:18+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:18+00:00 DEBUG > Inserting 
+2017-10-23T10:01:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:18+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:18+00:00 DEBUG > Inserting 
+2017-10-23T10:01:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:18+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:18+00:00 DEBUG > Inserting 
+2017-10-23T10:01:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:18+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:18+00:00 DEBUG > Inserting 
+2017-10-23T10:01:18+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:18+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:19+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:19+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:20+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:20+00:00 DEBUG ---
+2017-10-23T10:01:20+00:00 DEBUG Processing products.
+2017-10-23T10:01:20+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:20+00:00 DEBUG > Inserting 
+2017-10-23T10:01:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:20+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:20+00:00 DEBUG > Inserting 
+2017-10-23T10:01:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:20+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:20+00:00 DEBUG > Inserting 
+2017-10-23T10:01:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:20+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:20+00:00 DEBUG > Inserting 
+2017-10-23T10:01:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:20+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:20+00:00 DEBUG > Inserting 
+2017-10-23T10:01:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:20+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:20+00:00 DEBUG > Inserting 
+2017-10-23T10:01:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:20+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:20+00:00 DEBUG > Inserting 
+2017-10-23T10:01:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:20+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:20+00:00 DEBUG > Inserting 
+2017-10-23T10:01:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:20+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:20+00:00 DEBUG > Inserting 
+2017-10-23T10:01:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:20+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:20+00:00 DEBUG > Inserting 
+2017-10-23T10:01:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:20+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:21+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:21+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:21+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:21+00:00 DEBUG ---
+2017-10-23T10:01:21+00:00 DEBUG Processing products.
+2017-10-23T10:01:21+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:21+00:00 DEBUG > Inserting 
+2017-10-23T10:01:21+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:21+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:21+00:00 DEBUG > Inserting 
+2017-10-23T10:01:21+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:21+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:21+00:00 DEBUG > Inserting 
+2017-10-23T10:01:21+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:21+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:21+00:00 DEBUG > Inserting 
+2017-10-23T10:01:21+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:21+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:21+00:00 DEBUG > Inserting 
+2017-10-23T10:01:21+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:21+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:21+00:00 DEBUG > Inserting 
+2017-10-23T10:01:21+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:21+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:21+00:00 DEBUG > Inserting 
+2017-10-23T10:01:21+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:21+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:21+00:00 DEBUG > Inserting 
+2017-10-23T10:01:21+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:21+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:21+00:00 DEBUG > Inserting 
+2017-10-23T10:01:21+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:21+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:21+00:00 DEBUG > Inserting 
+2017-10-23T10:01:21+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:21+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:23+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:23+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:23+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:23+00:00 DEBUG ---
+2017-10-23T10:01:23+00:00 DEBUG Processing products.
+2017-10-23T10:01:23+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:23+00:00 DEBUG > Inserting 
+2017-10-23T10:01:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:23+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:23+00:00 DEBUG > Inserting 
+2017-10-23T10:01:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:23+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:23+00:00 DEBUG > Inserting 
+2017-10-23T10:01:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:23+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:23+00:00 DEBUG > Inserting 
+2017-10-23T10:01:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:23+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:23+00:00 DEBUG > Inserting 
+2017-10-23T10:01:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:23+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:23+00:00 DEBUG > Inserting 
+2017-10-23T10:01:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:23+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:23+00:00 DEBUG > Inserting 
+2017-10-23T10:01:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:23+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:23+00:00 DEBUG > Inserting 
+2017-10-23T10:01:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:23+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:23+00:00 DEBUG > Inserting 
+2017-10-23T10:01:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:23+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:23+00:00 DEBUG > Inserting 
+2017-10-23T10:01:23+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:23+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:26+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:26+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:26+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:26+00:00 DEBUG ---
+2017-10-23T10:01:26+00:00 DEBUG Processing products.
+2017-10-23T10:01:26+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:26+00:00 DEBUG > Inserting 
+2017-10-23T10:01:26+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:26+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:26+00:00 DEBUG > Inserting 
+2017-10-23T10:01:26+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:26+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:26+00:00 DEBUG > Inserting 
+2017-10-23T10:01:26+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:26+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:26+00:00 DEBUG > Inserting 
+2017-10-23T10:01:26+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:26+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:26+00:00 DEBUG > Inserting 
+2017-10-23T10:01:26+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:26+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:26+00:00 DEBUG > Inserting 
+2017-10-23T10:01:26+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:26+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:26+00:00 DEBUG > Inserting 
+2017-10-23T10:01:26+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:26+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:26+00:00 DEBUG > Inserting 
+2017-10-23T10:01:26+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:26+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:26+00:00 DEBUG > Inserting 
+2017-10-23T10:01:26+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:26+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:26+00:00 DEBUG > Inserting 
+2017-10-23T10:01:26+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:26+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:29+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:29+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:29+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:29+00:00 DEBUG ---
+2017-10-23T10:01:29+00:00 DEBUG Processing products.
+2017-10-23T10:01:29+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:29+00:00 DEBUG > Inserting 
+2017-10-23T10:01:29+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:29+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:29+00:00 DEBUG > Inserting 
+2017-10-23T10:01:29+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:29+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:29+00:00 DEBUG > Inserting 
+2017-10-23T10:01:29+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:29+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:29+00:00 DEBUG > Inserting 
+2017-10-23T10:01:29+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:29+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:29+00:00 DEBUG > Inserting 
+2017-10-23T10:01:29+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:29+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:29+00:00 DEBUG > Inserting 
+2017-10-23T10:01:29+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:29+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:01:29+00:00 DEBUG > Inserting 
+2017-10-23T10:01:29+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:29+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:01:29+00:00 DEBUG > Inserting 
+2017-10-23T10:01:29+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:29+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:01:29+00:00 DEBUG > Inserting 
+2017-10-23T10:01:29+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:29+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:01:29+00:00 DEBUG > Inserting 
+2017-10-23T10:01:29+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:29+00:00 DEBUG Finished processing products.
+2017-10-23T10:01:31+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:01:31+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:01:31+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:01:31+00:00 DEBUG ---
+2017-10-23T10:01:31+00:00 DEBUG Processing products.
+2017-10-23T10:01:31+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:01:31+00:00 DEBUG > Inserting 
+2017-10-23T10:01:31+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:31+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:01:31+00:00 DEBUG > Inserting 
+2017-10-23T10:01:31+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:31+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:01:31+00:00 DEBUG > Inserting 
+2017-10-23T10:01:31+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:31+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:01:31+00:00 DEBUG > Inserting 
+2017-10-23T10:01:31+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:31+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:01:31+00:00 DEBUG > Inserting 
+2017-10-23T10:01:31+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:31+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:01:31+00:00 DEBUG > Inserting 
+2017-10-23T10:01:31+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:01:31+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:39+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:39+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:39+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:39+00:00 DEBUG ---
+2017-10-23T10:11:39+00:00 DEBUG Processing products.
+2017-10-23T10:11:39+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:39+00:00 DEBUG > Inserting 
+2017-10-23T10:11:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:39+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:39+00:00 DEBUG > Inserting 
+2017-10-23T10:11:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:39+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:39+00:00 DEBUG > Inserting 
+2017-10-23T10:11:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:39+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:39+00:00 DEBUG > Inserting 
+2017-10-23T10:11:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:39+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:39+00:00 DEBUG > Inserting 
+2017-10-23T10:11:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:39+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:39+00:00 DEBUG > Inserting 
+2017-10-23T10:11:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:39+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:39+00:00 DEBUG > Inserting 
+2017-10-23T10:11:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:39+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:39+00:00 DEBUG > Inserting 
+2017-10-23T10:11:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:39+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:39+00:00 DEBUG > Inserting 
+2017-10-23T10:11:39+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:39+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:40+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:40+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:40+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:40+00:00 DEBUG ---
+2017-10-23T10:11:40+00:00 DEBUG Processing products.
+2017-10-23T10:11:40+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:40+00:00 DEBUG > Inserting 
+2017-10-23T10:11:40+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:40+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:40+00:00 DEBUG > Inserting 
+2017-10-23T10:11:40+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:40+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:40+00:00 DEBUG > Inserting 
+2017-10-23T10:11:40+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:40+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:40+00:00 DEBUG > Inserting 
+2017-10-23T10:11:40+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:40+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:40+00:00 DEBUG > Inserting 
+2017-10-23T10:11:40+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:40+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:40+00:00 DEBUG > Inserting 
+2017-10-23T10:11:40+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:40+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:40+00:00 DEBUG > Inserting 
+2017-10-23T10:11:40+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:40+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:40+00:00 DEBUG > Inserting 
+2017-10-23T10:11:40+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:40+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:40+00:00 DEBUG > Inserting 
+2017-10-23T10:11:40+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:40+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:40+00:00 DEBUG > Inserting 
+2017-10-23T10:11:40+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:40+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:42+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:42+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:42+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:42+00:00 DEBUG ---
+2017-10-23T10:11:42+00:00 DEBUG Processing products.
+2017-10-23T10:11:42+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:42+00:00 DEBUG > Inserting 
+2017-10-23T10:11:42+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:42+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:42+00:00 DEBUG > Inserting 
+2017-10-23T10:11:42+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:42+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:42+00:00 DEBUG > Inserting 
+2017-10-23T10:11:42+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:42+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:42+00:00 DEBUG > Inserting 
+2017-10-23T10:11:42+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:42+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:42+00:00 DEBUG > Inserting 
+2017-10-23T10:11:42+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:42+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:42+00:00 DEBUG > Inserting 
+2017-10-23T10:11:42+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:42+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:42+00:00 DEBUG > Inserting 
+2017-10-23T10:11:42+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:42+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:42+00:00 DEBUG > Inserting 
+2017-10-23T10:11:42+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:42+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:42+00:00 DEBUG > Inserting 
+2017-10-23T10:11:42+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:42+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:42+00:00 DEBUG > Inserting 
+2017-10-23T10:11:42+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:42+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:44+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:44+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:44+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:44+00:00 DEBUG ---
+2017-10-23T10:11:44+00:00 DEBUG Processing products.
+2017-10-23T10:11:44+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:44+00:00 DEBUG > Inserting 
+2017-10-23T10:11:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:44+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:44+00:00 DEBUG > Inserting 
+2017-10-23T10:11:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:44+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:44+00:00 DEBUG > Inserting 
+2017-10-23T10:11:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:44+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:44+00:00 DEBUG > Inserting 
+2017-10-23T10:11:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:44+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:44+00:00 DEBUG > Inserting 
+2017-10-23T10:11:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:44+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:44+00:00 DEBUG > Inserting 
+2017-10-23T10:11:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:44+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:44+00:00 DEBUG > Inserting 
+2017-10-23T10:11:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:44+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:44+00:00 DEBUG > Inserting 
+2017-10-23T10:11:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:44+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:44+00:00 DEBUG > Inserting 
+2017-10-23T10:11:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:44+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:44+00:00 DEBUG > Inserting 
+2017-10-23T10:11:44+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:44+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:45+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:45+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:45+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:45+00:00 DEBUG ---
+2017-10-23T10:11:45+00:00 DEBUG Processing products.
+2017-10-23T10:11:45+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:45+00:00 DEBUG > Inserting 
+2017-10-23T10:11:45+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:45+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:45+00:00 DEBUG > Inserting 
+2017-10-23T10:11:45+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:45+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:45+00:00 DEBUG > Inserting 
+2017-10-23T10:11:45+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:45+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:45+00:00 DEBUG > Inserting 
+2017-10-23T10:11:45+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:45+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:45+00:00 DEBUG > Inserting 
+2017-10-23T10:11:45+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:45+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:45+00:00 DEBUG > Inserting 
+2017-10-23T10:11:45+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:45+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:45+00:00 DEBUG > Inserting 
+2017-10-23T10:11:45+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:45+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:45+00:00 DEBUG > Inserting 
+2017-10-23T10:11:45+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:45+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:45+00:00 DEBUG > Inserting 
+2017-10-23T10:11:45+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:45+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:45+00:00 DEBUG > Inserting 
+2017-10-23T10:11:45+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:45+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:47+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:47+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:47+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:47+00:00 DEBUG ---
+2017-10-23T10:11:47+00:00 DEBUG Processing products.
+2017-10-23T10:11:47+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:47+00:00 DEBUG > Inserting 
+2017-10-23T10:11:47+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:47+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:47+00:00 DEBUG > Inserting 
+2017-10-23T10:11:47+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:47+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:47+00:00 DEBUG > Inserting 
+2017-10-23T10:11:47+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:47+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:47+00:00 DEBUG > Inserting 
+2017-10-23T10:11:47+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:47+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:47+00:00 DEBUG > Inserting 
+2017-10-23T10:11:47+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:47+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:47+00:00 DEBUG > Inserting 
+2017-10-23T10:11:47+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:47+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:47+00:00 DEBUG > Inserting 
+2017-10-23T10:11:47+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:47+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:47+00:00 DEBUG > Inserting 
+2017-10-23T10:11:47+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:47+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:47+00:00 DEBUG > Inserting 
+2017-10-23T10:11:47+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:47+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:47+00:00 DEBUG > Inserting 
+2017-10-23T10:11:47+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:47+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:49+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:49+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:49+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:49+00:00 DEBUG ---
+2017-10-23T10:11:49+00:00 DEBUG Processing products.
+2017-10-23T10:11:49+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:49+00:00 DEBUG > Inserting 
+2017-10-23T10:11:49+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:49+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:49+00:00 DEBUG > Inserting 
+2017-10-23T10:11:49+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:49+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:49+00:00 DEBUG > Inserting 
+2017-10-23T10:11:49+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:49+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:49+00:00 DEBUG > Inserting 
+2017-10-23T10:11:49+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:49+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:49+00:00 DEBUG > Inserting 
+2017-10-23T10:11:49+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:49+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:49+00:00 DEBUG > Inserting 
+2017-10-23T10:11:49+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:49+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:49+00:00 DEBUG > Inserting 
+2017-10-23T10:11:49+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:49+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:49+00:00 DEBUG > Inserting 
+2017-10-23T10:11:49+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:49+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:49+00:00 DEBUG > Inserting 
+2017-10-23T10:11:49+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:49+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:49+00:00 DEBUG > Inserting 
+2017-10-23T10:11:49+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:49+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:50+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:50+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:50+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:50+00:00 DEBUG ---
+2017-10-23T10:11:50+00:00 DEBUG Processing products.
+2017-10-23T10:11:50+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:50+00:00 DEBUG > Inserting 
+2017-10-23T10:11:50+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:50+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:50+00:00 DEBUG > Inserting 
+2017-10-23T10:11:50+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:50+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:50+00:00 DEBUG > Inserting 
+2017-10-23T10:11:50+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:50+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:50+00:00 DEBUG > Inserting 
+2017-10-23T10:11:50+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:50+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:50+00:00 DEBUG > Inserting 
+2017-10-23T10:11:50+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:50+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:50+00:00 DEBUG > Inserting 
+2017-10-23T10:11:50+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:50+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:50+00:00 DEBUG > Inserting 
+2017-10-23T10:11:50+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:50+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:50+00:00 DEBUG > Inserting 
+2017-10-23T10:11:50+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:50+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:50+00:00 DEBUG > Inserting 
+2017-10-23T10:11:50+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:50+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:50+00:00 DEBUG > Inserting 
+2017-10-23T10:11:50+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:50+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:51+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:51+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:51+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:51+00:00 DEBUG ---
+2017-10-23T10:11:51+00:00 DEBUG Processing products.
+2017-10-23T10:11:51+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:51+00:00 DEBUG > Inserting 
+2017-10-23T10:11:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:51+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:51+00:00 DEBUG > Inserting 
+2017-10-23T10:11:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:51+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:51+00:00 DEBUG > Inserting 
+2017-10-23T10:11:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:51+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:51+00:00 DEBUG > Inserting 
+2017-10-23T10:11:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:51+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:51+00:00 DEBUG > Inserting 
+2017-10-23T10:11:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:51+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:51+00:00 DEBUG > Inserting 
+2017-10-23T10:11:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:51+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:51+00:00 DEBUG > Inserting 
+2017-10-23T10:11:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:51+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:51+00:00 DEBUG > Inserting 
+2017-10-23T10:11:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:51+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:51+00:00 DEBUG > Inserting 
+2017-10-23T10:11:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:51+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:51+00:00 DEBUG > Inserting 
+2017-10-23T10:11:51+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:51+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:53+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:53+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:53+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:53+00:00 DEBUG ---
+2017-10-23T10:11:53+00:00 DEBUG Processing products.
+2017-10-23T10:11:53+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:53+00:00 DEBUG > Inserting 
+2017-10-23T10:11:53+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:53+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:53+00:00 DEBUG > Inserting 
+2017-10-23T10:11:53+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:53+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:53+00:00 DEBUG > Inserting 
+2017-10-23T10:11:53+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:53+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:53+00:00 DEBUG > Inserting 
+2017-10-23T10:11:53+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:53+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:53+00:00 DEBUG > Inserting 
+2017-10-23T10:11:53+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:53+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:53+00:00 DEBUG > Inserting 
+2017-10-23T10:11:53+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:53+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:53+00:00 DEBUG > Inserting 
+2017-10-23T10:11:53+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:53+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:53+00:00 DEBUG > Inserting 
+2017-10-23T10:11:53+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:53+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:53+00:00 DEBUG > Inserting 
+2017-10-23T10:11:53+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:53+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:53+00:00 DEBUG > Inserting 
+2017-10-23T10:11:53+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:53+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:54+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:54+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:54+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:54+00:00 DEBUG ---
+2017-10-23T10:11:54+00:00 DEBUG Processing products.
+2017-10-23T10:11:54+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:54+00:00 DEBUG > Inserting 
+2017-10-23T10:11:54+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:54+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:54+00:00 DEBUG > Inserting 
+2017-10-23T10:11:54+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:54+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:54+00:00 DEBUG > Inserting 
+2017-10-23T10:11:54+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:54+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:54+00:00 DEBUG > Inserting 
+2017-10-23T10:11:54+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:54+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:54+00:00 DEBUG > Inserting 
+2017-10-23T10:11:54+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:54+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:54+00:00 DEBUG > Inserting 
+2017-10-23T10:11:54+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:54+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:54+00:00 DEBUG > Inserting 
+2017-10-23T10:11:54+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:54+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:54+00:00 DEBUG > Inserting 
+2017-10-23T10:11:54+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:54+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:54+00:00 DEBUG > Inserting 
+2017-10-23T10:11:54+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:54+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:54+00:00 DEBUG > Inserting 
+2017-10-23T10:11:54+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:54+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:55+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:55+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:55+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:55+00:00 DEBUG ---
+2017-10-23T10:11:55+00:00 DEBUG Processing products.
+2017-10-23T10:11:55+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:55+00:00 DEBUG > Inserting 
+2017-10-23T10:11:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:55+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:55+00:00 DEBUG > Inserting 
+2017-10-23T10:11:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:55+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:55+00:00 DEBUG > Inserting 
+2017-10-23T10:11:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:55+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:55+00:00 DEBUG > Inserting 
+2017-10-23T10:11:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:55+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:55+00:00 DEBUG > Inserting 
+2017-10-23T10:11:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:55+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:55+00:00 DEBUG > Inserting 
+2017-10-23T10:11:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:55+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:55+00:00 DEBUG > Inserting 
+2017-10-23T10:11:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:55+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:55+00:00 DEBUG > Inserting 
+2017-10-23T10:11:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:55+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:55+00:00 DEBUG > Inserting 
+2017-10-23T10:11:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:55+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:55+00:00 DEBUG > Inserting 
+2017-10-23T10:11:55+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:55+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:57+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:57+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:57+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:57+00:00 DEBUG ---
+2017-10-23T10:11:57+00:00 DEBUG Processing products.
+2017-10-23T10:11:57+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:57+00:00 DEBUG > Inserting 
+2017-10-23T10:11:57+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:57+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:57+00:00 DEBUG > Inserting 
+2017-10-23T10:11:57+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:57+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:57+00:00 DEBUG > Inserting 
+2017-10-23T10:11:57+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:57+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:57+00:00 DEBUG > Inserting 
+2017-10-23T10:11:57+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:57+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:57+00:00 DEBUG > Inserting 
+2017-10-23T10:11:57+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:57+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:57+00:00 DEBUG > Inserting 
+2017-10-23T10:11:57+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:57+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:57+00:00 DEBUG > Inserting 
+2017-10-23T10:11:57+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:57+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:57+00:00 DEBUG > Inserting 
+2017-10-23T10:11:57+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:57+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:57+00:00 DEBUG > Inserting 
+2017-10-23T10:11:57+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:57+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:57+00:00 DEBUG > Inserting 
+2017-10-23T10:11:57+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:57+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:58+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:58+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:58+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:58+00:00 DEBUG ---
+2017-10-23T10:11:58+00:00 DEBUG Processing products.
+2017-10-23T10:11:58+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:58+00:00 DEBUG > Inserting 
+2017-10-23T10:11:58+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:58+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:58+00:00 DEBUG > Inserting 
+2017-10-23T10:11:58+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:58+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:58+00:00 DEBUG > Inserting 
+2017-10-23T10:11:58+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:58+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:58+00:00 DEBUG > Inserting 
+2017-10-23T10:11:58+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:58+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:58+00:00 DEBUG > Inserting 
+2017-10-23T10:11:58+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:58+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:58+00:00 DEBUG > Inserting 
+2017-10-23T10:11:58+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:58+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:58+00:00 DEBUG > Inserting 
+2017-10-23T10:11:58+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:58+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:58+00:00 DEBUG > Inserting 
+2017-10-23T10:11:58+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:58+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:58+00:00 DEBUG > Inserting 
+2017-10-23T10:11:58+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:58+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:58+00:00 DEBUG > Inserting 
+2017-10-23T10:11:58+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:58+00:00 DEBUG Finished processing products.
+2017-10-23T10:11:59+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:11:59+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:11:59+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:11:59+00:00 DEBUG ---
+2017-10-23T10:11:59+00:00 DEBUG Processing products.
+2017-10-23T10:11:59+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:11:59+00:00 DEBUG > Inserting 
+2017-10-23T10:11:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:59+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:11:59+00:00 DEBUG > Inserting 
+2017-10-23T10:11:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:59+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:11:59+00:00 DEBUG > Inserting 
+2017-10-23T10:11:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:59+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:11:59+00:00 DEBUG > Inserting 
+2017-10-23T10:11:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:59+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:11:59+00:00 DEBUG > Inserting 
+2017-10-23T10:11:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:59+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:11:59+00:00 DEBUG > Inserting 
+2017-10-23T10:11:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:59+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:11:59+00:00 DEBUG > Inserting 
+2017-10-23T10:11:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:59+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:11:59+00:00 DEBUG > Inserting 
+2017-10-23T10:11:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:59+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:11:59+00:00 DEBUG > Inserting 
+2017-10-23T10:11:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:59+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:11:59+00:00 DEBUG > Inserting 
+2017-10-23T10:11:59+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:11:59+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:00+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:00+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:00+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:00+00:00 DEBUG ---
+2017-10-23T10:12:00+00:00 DEBUG Processing products.
+2017-10-23T10:12:00+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:00+00:00 DEBUG > Inserting 
+2017-10-23T10:12:00+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:00+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:00+00:00 DEBUG > Inserting 
+2017-10-23T10:12:00+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:00+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:00+00:00 DEBUG > Inserting 
+2017-10-23T10:12:00+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:00+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:00+00:00 DEBUG > Inserting 
+2017-10-23T10:12:00+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:00+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:00+00:00 DEBUG > Inserting 
+2017-10-23T10:12:00+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:00+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:00+00:00 DEBUG > Inserting 
+2017-10-23T10:12:00+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:00+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:12:00+00:00 DEBUG > Inserting 
+2017-10-23T10:12:00+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:00+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:12:00+00:00 DEBUG > Inserting 
+2017-10-23T10:12:00+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:00+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:12:00+00:00 DEBUG > Inserting 
+2017-10-23T10:12:00+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:00+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:12:00+00:00 DEBUG > Inserting 
+2017-10-23T10:12:00+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:00+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:02+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:02+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:02+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:02+00:00 DEBUG ---
+2017-10-23T10:12:02+00:00 DEBUG Processing products.
+2017-10-23T10:12:02+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:02+00:00 DEBUG > Inserting 
+2017-10-23T10:12:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:02+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:02+00:00 DEBUG > Inserting 
+2017-10-23T10:12:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:02+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:02+00:00 DEBUG > Inserting 
+2017-10-23T10:12:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:02+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:02+00:00 DEBUG > Inserting 
+2017-10-23T10:12:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:02+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:02+00:00 DEBUG > Inserting 
+2017-10-23T10:12:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:02+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:02+00:00 DEBUG > Inserting 
+2017-10-23T10:12:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:02+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:12:02+00:00 DEBUG > Inserting 
+2017-10-23T10:12:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:02+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:12:02+00:00 DEBUG > Inserting 
+2017-10-23T10:12:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:02+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:12:02+00:00 DEBUG > Inserting 
+2017-10-23T10:12:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:02+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:12:02+00:00 DEBUG > Inserting 
+2017-10-23T10:12:02+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:02+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:04+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:04+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:04+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:04+00:00 DEBUG ---
+2017-10-23T10:12:04+00:00 DEBUG Processing products.
+2017-10-23T10:12:04+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:04+00:00 DEBUG > Inserting 
+2017-10-23T10:12:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:04+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:04+00:00 DEBUG > Inserting 
+2017-10-23T10:12:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:04+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:04+00:00 DEBUG > Inserting 
+2017-10-23T10:12:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:04+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:04+00:00 DEBUG > Inserting 
+2017-10-23T10:12:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:04+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:04+00:00 DEBUG > Inserting 
+2017-10-23T10:12:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:04+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:04+00:00 DEBUG > Inserting 
+2017-10-23T10:12:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:04+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:12:04+00:00 DEBUG > Inserting 
+2017-10-23T10:12:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:04+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:12:04+00:00 DEBUG > Inserting 
+2017-10-23T10:12:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:04+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:12:04+00:00 DEBUG > Inserting 
+2017-10-23T10:12:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:04+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:12:04+00:00 DEBUG > Inserting 
+2017-10-23T10:12:04+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:04+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:05+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:05+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:05+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:05+00:00 DEBUG ---
+2017-10-23T10:12:05+00:00 DEBUG Processing products.
+2017-10-23T10:12:05+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:05+00:00 DEBUG > Inserting 
+2017-10-23T10:12:05+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:05+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:05+00:00 DEBUG > Inserting 
+2017-10-23T10:12:05+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:05+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:05+00:00 DEBUG > Inserting 
+2017-10-23T10:12:05+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:05+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:05+00:00 DEBUG > Inserting 
+2017-10-23T10:12:05+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:05+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:05+00:00 DEBUG > Inserting 
+2017-10-23T10:12:05+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:05+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:05+00:00 DEBUG > Inserting 
+2017-10-23T10:12:05+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:05+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:12:05+00:00 DEBUG > Inserting 
+2017-10-23T10:12:05+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:05+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:12:05+00:00 DEBUG > Inserting 
+2017-10-23T10:12:05+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:05+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:12:05+00:00 DEBUG > Inserting 
+2017-10-23T10:12:05+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:05+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:12:05+00:00 DEBUG > Inserting 
+2017-10-23T10:12:05+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:05+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:07+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:07+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:07+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:07+00:00 DEBUG ---
+2017-10-23T10:12:07+00:00 DEBUG Processing products.
+2017-10-23T10:12:07+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:07+00:00 DEBUG > Inserting 
+2017-10-23T10:12:07+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:07+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:07+00:00 DEBUG > Inserting 
+2017-10-23T10:12:07+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:07+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:07+00:00 DEBUG > Inserting 
+2017-10-23T10:12:07+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:07+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:07+00:00 DEBUG > Inserting 
+2017-10-23T10:12:07+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:07+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:07+00:00 DEBUG > Inserting 
+2017-10-23T10:12:07+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:07+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:07+00:00 DEBUG > Inserting 
+2017-10-23T10:12:07+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:07+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:12:07+00:00 DEBUG > Inserting 
+2017-10-23T10:12:07+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:07+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:12:07+00:00 DEBUG > Inserting 
+2017-10-23T10:12:07+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:07+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:12:07+00:00 DEBUG > Inserting 
+2017-10-23T10:12:07+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:07+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:12:07+00:00 DEBUG > Inserting 
+2017-10-23T10:12:07+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:07+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:09+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:09+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:09+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:09+00:00 DEBUG ---
+2017-10-23T10:12:09+00:00 DEBUG Processing products.
+2017-10-23T10:12:09+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:09+00:00 DEBUG > Inserting 
+2017-10-23T10:12:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:09+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:09+00:00 DEBUG > Inserting 
+2017-10-23T10:12:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:09+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:09+00:00 DEBUG > Inserting 
+2017-10-23T10:12:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:09+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:09+00:00 DEBUG > Inserting 
+2017-10-23T10:12:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:09+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:09+00:00 DEBUG > Inserting 
+2017-10-23T10:12:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:09+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:09+00:00 DEBUG > Inserting 
+2017-10-23T10:12:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:09+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:12:09+00:00 DEBUG > Inserting 
+2017-10-23T10:12:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:09+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:12:09+00:00 DEBUG > Inserting 
+2017-10-23T10:12:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:09+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:12:09+00:00 DEBUG > Inserting 
+2017-10-23T10:12:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:09+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:12:09+00:00 DEBUG > Inserting 
+2017-10-23T10:12:09+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:09+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:10+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:10+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:10+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:10+00:00 DEBUG ---
+2017-10-23T10:12:10+00:00 DEBUG Processing products.
+2017-10-23T10:12:10+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:10+00:00 DEBUG > Inserting 
+2017-10-23T10:12:10+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:10+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:10+00:00 DEBUG > Inserting 
+2017-10-23T10:12:10+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:10+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:10+00:00 DEBUG > Inserting 
+2017-10-23T10:12:10+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:10+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:10+00:00 DEBUG > Inserting 
+2017-10-23T10:12:10+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:10+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:10+00:00 DEBUG > Inserting 
+2017-10-23T10:12:10+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:10+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:10+00:00 DEBUG > Inserting 
+2017-10-23T10:12:10+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:10+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:12:10+00:00 DEBUG > Inserting 
+2017-10-23T10:12:10+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:10+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:12:10+00:00 DEBUG > Inserting 
+2017-10-23T10:12:10+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:10+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:12:10+00:00 DEBUG > Inserting 
+2017-10-23T10:12:10+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:10+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:12:10+00:00 DEBUG > Inserting 
+2017-10-23T10:12:10+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:10+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:11+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:11+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:11+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:11+00:00 DEBUG ---
+2017-10-23T10:12:11+00:00 DEBUG Processing products.
+2017-10-23T10:12:11+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:11+00:00 DEBUG > Inserting 
+2017-10-23T10:12:11+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:11+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:11+00:00 DEBUG > Inserting 
+2017-10-23T10:12:11+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:11+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:11+00:00 DEBUG > Inserting 
+2017-10-23T10:12:11+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:11+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:11+00:00 DEBUG > Inserting 
+2017-10-23T10:12:11+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:11+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:11+00:00 DEBUG > Inserting 
+2017-10-23T10:12:11+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:11+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:11+00:00 DEBUG > Inserting 
+2017-10-23T10:12:11+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:11+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:12:11+00:00 DEBUG > Inserting 
+2017-10-23T10:12:11+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:11+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:12:11+00:00 DEBUG > Inserting 
+2017-10-23T10:12:11+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:11+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:12:11+00:00 DEBUG > Inserting 
+2017-10-23T10:12:11+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:11+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:12:11+00:00 DEBUG > Inserting 
+2017-10-23T10:12:11+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:11+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:13+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:13+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:13+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:13+00:00 DEBUG ---
+2017-10-23T10:12:13+00:00 DEBUG Processing products.
+2017-10-23T10:12:13+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:13+00:00 DEBUG > Inserting 
+2017-10-23T10:12:13+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:13+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:13+00:00 DEBUG > Inserting 
+2017-10-23T10:12:13+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:13+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:13+00:00 DEBUG > Inserting 
+2017-10-23T10:12:13+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:13+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:13+00:00 DEBUG > Inserting 
+2017-10-23T10:12:13+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:13+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:13+00:00 DEBUG > Inserting 
+2017-10-23T10:12:13+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:13+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:13+00:00 DEBUG > Inserting 
+2017-10-23T10:12:13+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:13+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:12:13+00:00 DEBUG > Inserting 
+2017-10-23T10:12:13+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:13+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:12:13+00:00 DEBUG > Inserting 
+2017-10-23T10:12:13+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:13+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:12:13+00:00 DEBUG > Inserting 
+2017-10-23T10:12:13+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:13+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:12:13+00:00 DEBUG > Inserting 
+2017-10-23T10:12:13+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:13+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:15+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:15+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:15+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:15+00:00 DEBUG ---
+2017-10-23T10:12:15+00:00 DEBUG Processing products.
+2017-10-23T10:12:15+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:15+00:00 DEBUG > Inserting 
+2017-10-23T10:12:15+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:15+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:15+00:00 DEBUG > Inserting 
+2017-10-23T10:12:15+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:15+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:15+00:00 DEBUG > Inserting 
+2017-10-23T10:12:15+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:15+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:15+00:00 DEBUG > Inserting 
+2017-10-23T10:12:15+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:15+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:15+00:00 DEBUG > Inserting 
+2017-10-23T10:12:15+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:15+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:15+00:00 DEBUG > Inserting 
+2017-10-23T10:12:15+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:15+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:12:15+00:00 DEBUG > Inserting 
+2017-10-23T10:12:15+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:15+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:12:15+00:00 DEBUG > Inserting 
+2017-10-23T10:12:15+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:15+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:12:15+00:00 DEBUG > Inserting 
+2017-10-23T10:12:15+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:15+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:12:15+00:00 DEBUG > Inserting 
+2017-10-23T10:12:15+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:15+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:17+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:17+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:17+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:17+00:00 DEBUG ---
+2017-10-23T10:12:17+00:00 DEBUG Processing products.
+2017-10-23T10:12:17+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:17+00:00 DEBUG > Inserting 
+2017-10-23T10:12:17+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:17+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:17+00:00 DEBUG > Inserting 
+2017-10-23T10:12:17+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:17+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:17+00:00 DEBUG > Inserting 
+2017-10-23T10:12:17+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:17+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:17+00:00 DEBUG > Inserting 
+2017-10-23T10:12:17+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:17+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:17+00:00 DEBUG > Inserting 
+2017-10-23T10:12:17+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:17+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:17+00:00 DEBUG > Inserting 
+2017-10-23T10:12:17+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:17+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:12:17+00:00 DEBUG > Inserting 
+2017-10-23T10:12:17+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:17+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:12:17+00:00 DEBUG > Inserting 
+2017-10-23T10:12:17+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:17+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:12:17+00:00 DEBUG > Inserting 
+2017-10-23T10:12:17+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:17+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:12:17+00:00 DEBUG > Inserting 
+2017-10-23T10:12:17+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:17+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:19+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:19+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:19+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:19+00:00 DEBUG ---
+2017-10-23T10:12:19+00:00 DEBUG Processing products.
+2017-10-23T10:12:19+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:19+00:00 DEBUG > Inserting 
+2017-10-23T10:12:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:19+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:19+00:00 DEBUG > Inserting 
+2017-10-23T10:12:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:19+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:19+00:00 DEBUG > Inserting 
+2017-10-23T10:12:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:19+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:19+00:00 DEBUG > Inserting 
+2017-10-23T10:12:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:19+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:19+00:00 DEBUG > Inserting 
+2017-10-23T10:12:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:19+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:19+00:00 DEBUG > Inserting 
+2017-10-23T10:12:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:19+00:00 DEBUG > Row 7 - preparing for import.
+2017-10-23T10:12:19+00:00 DEBUG > Inserting 
+2017-10-23T10:12:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:19+00:00 DEBUG > Row 8 - preparing for import.
+2017-10-23T10:12:19+00:00 DEBUG > Inserting 
+2017-10-23T10:12:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:19+00:00 DEBUG > Row 9 - preparing for import.
+2017-10-23T10:12:19+00:00 DEBUG > Inserting 
+2017-10-23T10:12:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:19+00:00 DEBUG > Row 10 - preparing for import.
+2017-10-23T10:12:19+00:00 DEBUG > Inserting 
+2017-10-23T10:12:19+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:19+00:00 DEBUG Finished processing products.
+2017-10-23T10:12:20+00:00 DEBUG ---[ New Import ] PHP Memory: 500 MB, WP Memory: 500 MB
+2017-10-23T10:12:20+00:00 DEBUG Parsing products CSV.
+2017-10-23T10:12:20+00:00 DEBUG Finished parsing products CSV.
+2017-10-23T10:12:20+00:00 DEBUG ---
+2017-10-23T10:12:20+00:00 DEBUG Processing products.
+2017-10-23T10:12:20+00:00 DEBUG > Row 1 - preparing for import.
+2017-10-23T10:12:20+00:00 DEBUG > Inserting 
+2017-10-23T10:12:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:20+00:00 DEBUG > Row 2 - preparing for import.
+2017-10-23T10:12:20+00:00 DEBUG > Inserting 
+2017-10-23T10:12:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:20+00:00 DEBUG > Row 3 - preparing for import.
+2017-10-23T10:12:20+00:00 DEBUG > Inserting 
+2017-10-23T10:12:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:20+00:00 DEBUG > Row 4 - preparing for import.
+2017-10-23T10:12:20+00:00 DEBUG > Inserting 
+2017-10-23T10:12:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:20+00:00 DEBUG > Row 5 - preparing for import.
+2017-10-23T10:12:20+00:00 DEBUG > Inserting 
+2017-10-23T10:12:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:20+00:00 DEBUG > Row 6 - preparing for import.
+2017-10-23T10:12:20+00:00 DEBUG > Inserting 
+2017-10-23T10:12:20+00:00 DEBUG Failed to import product &#8220;&#8221;
+2017-10-23T10:12:20+00:00 DEBUG Finished processing products.
