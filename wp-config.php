@@ -1,7 +1,7 @@
 <?php
 define('WP_CACHE', true);
-define('WP_HOME','https://afrimart.net.za/');
-define('WP_SITEURL','https://afrimart.net.za/');
+define('WP_HOME','domain name');
+define('WP_SITEURL','domain name');
 define('WP_MEMORY_LIMIT', '500M');
 /**
  * The base configuration for WordPress
@@ -24,16 +24,16 @@ define('WP_MEMORY_LIMIT', '500M');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'afrimjxqac_db1');
+define('DB_NAME','db user');
 
 /** MySQL database username */
-define('DB_USER', 'afrimjxqac_1');
+define('DB_USER', 'db user');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'U49@(pUS9G1');
+define('DB_PASSWORD', 'dppass');
 
 /** MySQL hostname */
-define('DB_HOST', 'dedi515.flk1.host-h.net');
+define('DB_HOST', 'db host');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
